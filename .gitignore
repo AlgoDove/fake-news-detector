@@ -1,0 +1,12 @@
+# Python cache files
+__pycache__/
+
+# Compiled Python files
+*.pyc
+
+# Virtual environment folders
+.venv/
+venv/
+
+# Ignore large model files
+models/*.pkl
